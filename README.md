@@ -3,8 +3,6 @@
 ![Profile views](https://gpvc.arturio.dev/minhtrancccp)
 [![wakatime](https://wakatime.com/badge/user/b32f8708-d489-4bad-8882-c2c36096c5a2.svg)](https://wakatime.com/@b32f8708-d489-4bad-8882-c2c36096c5a2)
 
-- 📔 Studying Computer Science at [Lancaster University in Leipzig, Germany](https://www.lancasterleipzig.de/)
-
 - 👨‍💻 Experience with using 🐍 Python and SQLite
   
 - ⚡ Enjoy working on maths problems and programming challenges
