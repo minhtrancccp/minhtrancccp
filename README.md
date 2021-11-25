@@ -3,7 +3,9 @@
 ![Profile views](https://gpvc.arturio.dev/minhtrancccp)
 [![WakaTime](https://wakatime.com/badge/user/b32f8708-d489-4bad-8882-c2c36096c5a2.svg)](https://wakatime.com/@b32f8708-d489-4bad-8882-c2c36096c5a2)
 
-- 👨‍💻 Experience with using 🐍 Python and SQLite
+- 📔 Studying Computer Science at [Lancaster University in Leipzig, Germany](https://www.lancasterleipzig.de/)
+
+- :man_technologist: Experience with using 🐍 Python and SQLite
   
 - ⚡ Enjoy working on maths problems and programming challenges
 
@@ -15,10 +17,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=minhtrancccp&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrancccp&layout=compact&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
-Temporarily disable this badge as an error occurred
+These 2 badges are temporarily hidden due to errors occurred
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhtrancccp&layout=compact&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minhtrancccp&layout=compact&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
