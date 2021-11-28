@@ -7,8 +7,8 @@
 
 - 📔 Studying Computer Science at [Lancaster University in Leipzig, Germany](https://www.lancasterleipzig.de/)
 
-- 👨‍💻 Experience with using 🐍 Python and SQLite
-  
+- :man_technologist: Experience with using 🐍 Python and SQLite
+
 - ⚡ Enjoy working on maths problems and programming challenges
   
 - 🌱 Currently learning C, Java, MySQL and Git/GitHub
