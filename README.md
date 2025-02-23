@@ -1,6 +1,6 @@
 # halo 👋
 
-this is Minh Tran from the middile of nowhere
+this is Minh Tran from the middle of nowhere
 
 ## at a glance
 
